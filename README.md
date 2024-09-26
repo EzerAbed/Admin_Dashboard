@@ -13,7 +13,7 @@ This project is aimed at improving my skills in creating admin interfaces, handl
 <ul>
   <li> <b>Next.js:</b>  React framework for building server-side rendered and static web applications </li>
   <li> <b>React:</b> JavaScript library for building interactive user interfaces. </li>
-  <li> <b>Use-debounce:</b> to prevent abusing the database requests </li>
+  <li> <b>Use-debounce library:</b> to prevent abusing the database requests </li>
 </ul>
 
-<h4> <b>Note :</b> the application isn't complete some route still need to be designed and/or created  </h4>
+<h4> Note : the application isn't complete some route still need to be designed and/or created  </h4>
